@@ -15,7 +15,7 @@ This includes algorithmic mechanism design/game theory, information design, soci
 
 &nbsp;
 &nbsp;
-## Papers
+## Papers<sup>$\alpha,\beta$ denotes alphabetical order of authorship</sup>
 
 * *Replication-proof Bandit Mechanism Design*, under review
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
