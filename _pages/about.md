@@ -13,6 +13,7 @@ I'm broadly interested in the intersection of microeconomics, theoretical comput
 This includes algorithmic mechanism design/game theory, information design, social learning/choice, and their interface with approximate/randomized/online algorithm, computational complexity, and multi-armed bandits.
 
 ## Papers
+<font size= "7">
 * Replication-proof Bandit Mechanism Design
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
 	* Under review
@@ -43,3 +44,4 @@ This includes algorithmic mechanism design/game theory, information design, soci
 * [Power of Bonus in Pricing for Crowdsourcing](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf)
 	* S. Shin, H.Choi, Y. Yi, J. Oks
 	* Sigmetrics'22
+</font>
