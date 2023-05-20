@@ -89,14 +89,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=-p5eVQsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
   foursquare       :
-  github           : "suhoshin"
+  # github           : "suhoshin"
   google_plus      :
   keybase          :
   # instagram        :
@@ -106,10 +101,7 @@ author:
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "https://twitter.com/SuhoShin327"
+  twitter          : "SuhoShin327"
   vine             :
   weibo            :
   xing             :
