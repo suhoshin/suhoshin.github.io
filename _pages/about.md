@@ -33,11 +33,11 @@ This includes algorithmic mechanism design/game theory, information design, soci
 * [*Bandit Social Learning under Myopic Agents*](https://arxiv.org/pdf/2302.07425.pdf), under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
 
-* [*Delegating to Multiple Agents*](https://arxiv.org/pdf/2305.03203.pdf), EC'23
+* [*Delegating to Multiple Agents*](https://arxiv.org/pdf/2305.03203.pdf), [EC'23](https://ec23.sigecom.org/)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, K. Rezaei, S. Shin
 
-* [*Multi-armed Bandit Algorithm against Strategic Replication*](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf), AISTATS'22
+* [*Multi-armed Bandit Algorithm against Strategic Replication*](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf), [AISTATS'22](http://aistats.org/aistats2022/)
 	* S. Shin, S. Lee, J. Ok
 
-* [*Power of Bonus in Pricing for Crowdsourcing*](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), Sigmetrics'22
+* [*Power of Bonus in Pricing for Crowdsourcing*](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), [Sigmetrics'22](https://www.sigmetrics.org/sigmetrics2022/)
 	* S. Shin, H.Choi, Y. Yi, J. Oks
