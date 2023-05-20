@@ -20,4 +20,4 @@ An Improved Relaxation for Oracle-Efficient Adversarial Contextual Bandits
 S. Shin, S. Lee, J. Ok
 
 [Power of Bonus in Pricing for Crowdsourcing](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), Sigmetrics'22
-S. Shin, H.Choi, Y. Yi, J. Ok
+S. Shin, H.Choi, Y. Yi, J. Oks
