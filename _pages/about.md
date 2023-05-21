@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NL62WLXFDE"></script>
@@ -8,15 +17,6 @@
 
   gtag('config', 'G-NL62WLXFDE');
 </script>
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 
 I'm a first-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
