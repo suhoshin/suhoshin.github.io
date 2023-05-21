@@ -55,7 +55,7 @@ I've recently been working on a mechanism design without monetary transfer with 
 
 * [**Delegating to Multiple Agents**](https://arxiv.org/pdf/2305.03203.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, K. Rezaei, S. Shin
-	* *ACM conference on Economics and Computation* ([EC'23](https://ec23.sigecom.org/))
+	* [*EC'23*](https://ec23.sigecom.org/)
 
 * [**Multi-armed Bandit Algorithm against Strategic Replication**](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf)
 	* S. Shin, S. Lee, J. Ok
