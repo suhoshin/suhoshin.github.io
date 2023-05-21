@@ -18,6 +18,12 @@ redirect_from:
   gtag('config', 'G-NL62WLXFDE');
 </script>
 
+<style>
+  body{
+  font-size: 7pt;
+}
+</style>
+
 
 I'm a first-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I'm broadly interested in the intersection of microeconomics, theoretical computer science and learning theory.
@@ -54,5 +60,5 @@ I've recently been working on a mechanism design without monetary transfer with 
 	* S. Shin, S. Lee, J. Ok
 
 * [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), [Sigmetrics'22](https://www.sigmetrics.org/sigmetrics2022/)
-	* S. Shin, H.Choi, Y. Yi, J. Oks
+	* S. Shin, H.Choi, Y. Yi, J. Ok
 </font>
