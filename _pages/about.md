@@ -32,8 +32,9 @@ I've recently been working on a mechanism design without monetary transfer with 
 
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
-* **Replication-proof Bandit Mechanism Design**, under review
+* **Replication-proof Bandit Mechanism Design**
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
+	* under review
 
 * **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
