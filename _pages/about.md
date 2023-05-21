@@ -34,26 +34,33 @@ I've recently been working on a mechanism design without monetary transfer with 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 * **Replication-proof Bandit Mechanism Design**
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
-	* under review
+	* *Under review*
 
-* **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
+* **Almost Tight Guarantees for Online Nash Social Welfare Maximization**
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
+	* *Under review*
 
-* **A Regret Analysis of Repeated Delegated Choice**, under review
+* **A Regret Analysis of Repeated Delegated Choice**
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
+	* *Under review*
 	
 
-* **An Improved Relaxation for Oracle-Efficient Adversarial Contextual Bandits**, under review
+* **An Improved Relaxation for Oracle-Efficient Adversarial Contextual Bandits**
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
+	* *Under review*
 
-* [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf), under review
+* [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
+	* *Under review*
 
-* [**Delegating to Multiple Agents**](https://arxiv.org/pdf/2305.03203.pdf), [EC'23](https://ec23.sigecom.org/)
+* [**Delegating to Multiple Agents**](https://arxiv.org/pdf/2305.03203.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, K. Rezaei, S. Shin
+	* *ACM conference on Economics and Computation* ([EC'23](https://ec23.sigecom.org/))
 
-* [**Multi-armed Bandit Algorithm against Strategic Replication**](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf), [AISTATS'22](http://aistats.org/aistats2022/)
+* [**Multi-armed Bandit Algorithm against Strategic Replication**](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf)
 	* S. Shin, S. Lee, J. Ok
+	* [*AISTATS'22*](http://aistats.org/aistats2022/)
 
-* [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), [Sigmetrics'22](https://www.sigmetrics.org/sigmetrics2022/)
+* [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf)
 	* S. Shin, H.Choi, Y. Yi, J. Ok
+	* [*Sigmetrics'22*](https://www.sigmetrics.org/sigmetrics2022/)
