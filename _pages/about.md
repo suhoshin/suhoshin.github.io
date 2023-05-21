@@ -28,6 +28,8 @@ I've recently been working on a mechanism design without monetary transfer with 
 &nbsp;
 &nbsp;
 ## Papers
+
+<font size="2">
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 * **Replication-proof Bandit Mechanism Design**, under review
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
@@ -53,3 +55,4 @@ I've recently been working on a mechanism design without monetary transfer with 
 
 * [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), [Sigmetrics'22](https://www.sigmetrics.org/sigmetrics2022/)
 	* S. Shin, H.Choi, Y. Yi, J. Oks
+</font>
