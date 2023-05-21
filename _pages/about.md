@@ -1,3 +1,13 @@
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NL62WLXFDE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NL62WLXFDE');
+</script>
 ---
 permalink: /
 title: "About me"
@@ -7,6 +17,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 I'm a first-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I'm broadly interested in the intersection of microeconomics, theoretical computer science and learning theory.
