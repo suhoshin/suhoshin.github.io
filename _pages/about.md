@@ -18,11 +18,6 @@ redirect_from:
   gtag('config', 'G-NL62WLXFDE');
 </script>
 
-<style>
-  body{
-  font-size: 7pt;
-}
-</style>
 
 
 I'm a first-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
