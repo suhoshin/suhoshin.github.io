@@ -54,5 +54,5 @@ I've recently been working on a mechanism design without monetary transfer with 
 * [**Multi-armed Bandit Algorithm against Strategic Replication**](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf), [*AISTATS'22*](http://aistats.org/aistats2022/)
 	* S. Shin, S. Lee, J. Ok
 
-* [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/, [*Sigmetrics'22*](https://www.sigmetrics.org/sigmetrics2022/)PowerofBonus_Sigmetrics_2022.pdf)
+* [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), [*Sigmetrics'22*](https://www.sigmetrics.org/sigmetrics2022/)
 	* S. Shin, H.Choi, Y. Yi, J. Ok
