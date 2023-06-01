@@ -42,7 +42,7 @@ I've recently been working on a mechanism design without monetary transfer with 
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
 
-* **An Improved Relaxation for Oracle-Efficient Adversarial Contextual Bandits**, under review
+* **An Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
 
 * [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf), under review
