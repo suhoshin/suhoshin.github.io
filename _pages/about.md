@@ -38,10 +38,12 @@ I've recently been working on a delegation mechanism design without monetary tra
 * **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
 
+* **Incentivizing Performance in Multi-armed Bandits with Strategic Arms**, under review
+	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
+
 * **A Regret Analysis of Repeated Delegated Choice**, under review
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
-
 * **An Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
 
