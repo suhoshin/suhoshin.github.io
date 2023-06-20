@@ -24,7 +24,6 @@ I'm a first-year Ph.D. student in Computer Science at the University of Maryland
 I received a M.S. in Electrical Engineering and a B.S. in Mathematical Sciences at KAIST in South Korea.
 I'm broadly interested in the intersection of microeconomics, theoretical computer science and learning theory.
 This includes algorithmic mechanism design/game theory, information design, social learning/choice, and their interface with approximate/randomized/online algorithm, computational complexity, and multi-armed bandits.
-I've recently been trying to understand a connection between algorithmic delegation mechanism and incentive-aware online decision-making in creator economy.
 
 &nbsp;
 &nbsp;
