@@ -38,9 +38,6 @@ My recent focus is on delegation mechanism with/without money, especially in com
 * **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
 
-* **Incentivizing Performance in Multi-armed Bandits with Strategic Arms**, under review
-	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
-
 * **A Regret Analysis of Repeated Delegated Choice**, under review
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
