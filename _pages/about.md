@@ -20,11 +20,11 @@ redirect_from:
 
 
 
-I'm a first-year Ph.D. student in Computer Science at the University of Maryland, working with [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
+I'm a second-year Ph.D. student in Computer Science at the University of Maryland, working with [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I received a M.S. in Electrical Engineering and a B.S. in Mathematical Sciences at KAIST in South Korea.
 I'm broadly interested in the intersection of microeconomics, theoretical computer science and learning theory.
 This includes algorithmic mechanism design/game theory, information design, social learning/choice, and their interface with approximate/randomized/online algorithm, computational complexity, and multi-armed bandits.
-My recent focus is on delegation mechanism with/without money, especially in combinatorial/learning/multi-agent perspective.
+My recent focus is on algorithmic delegation mechanism design, especially in combinatorial/learning/multi-agent perspective.
 
 &nbsp;
 &nbsp;
@@ -41,10 +41,10 @@ My recent focus is on delegation mechanism with/without money, especially in com
 * **A Regret Analysis of Repeated Delegated Choice**, under review
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
-* **Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, under review
+* **Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, [NeurIPS 2023](https://nips.cc/)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
 
-* [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf), under review
+* [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf), [NeurIPS 2023](https://nips.cc/)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
 
 * [**Delegating to Multiple Agents**](https://arxiv.org/pdf/2305.03203.pdf), [EC 2023](https://ec23.sigecom.org/)
