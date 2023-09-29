@@ -32,9 +32,6 @@ My recent focus is on algorithmic delegation mechanism design, especially in com
 
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
-* **Replication-proof Bandit Mechanism Design**, under review
-	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
-
 * **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
 
