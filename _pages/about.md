@@ -42,7 +42,7 @@ My recent focus is on algorithmic delegation mechanism design, especially in com
 * **Incentivizing Performance in Bandits with Strategic Arms**, under review
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
 	
-* **Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, NeurIPS'23
+* [**Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**](https://arxiv.org/pdf/2310.19025.pdf), NeurIPS'23
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
 
 * [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf), NeurIPS'23
