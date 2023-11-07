@@ -20,11 +20,13 @@ redirect_from:
 
 
 
-I'm a second-year Ph.D. student in Computer Science at the University of Maryland, working with [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
+I'm a second-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I received a M.S. in Electrical Engineering and a B.S. in Mathematics at KAIST in South Korea.
-I'm broadly interested in the intersection of microeconomics, theoretical computer science and learning theory.
-This includes algorithmic mechanism design/game theory, information design, social learning/choice, and their interface with approximate/randomized/online algorithm, computational complexity, and multi-armed bandits.
-My recent focus is on algorithmic delegation mechanism design, especially in combinatorial/learning/multi-agent perspective.
+I'm broadly interested in the intersection of theoretical computer science and microeconomics.
+This includes algorithmic mechanism design/game theory, social learning and social choice.
+I'm also interested in graph/online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
+My recent focus is on algorithmic mechanism design for delegation, especially from combinatorial/learning/multi-agent perspective.
+
 
 &nbsp;
 &nbsp;
@@ -36,11 +38,11 @@ My recent focus is on algorithmic delegation mechanism design, especially in com
 * **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
 
-* **A Regret Analysis of Repeated Delegated Choice**, under review
-	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
-
 * **Incentivizing Performance in Bandits with Strategic Arms**, under review
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
+	
+* [**Regret Analysis of Repeated Delegated Choice**](https://arxiv.org/pdf/2310.04884.pdf), under review
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
 * [**Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**](https://arxiv.org/pdf/2310.19025.pdf), NeurIPS'23
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
