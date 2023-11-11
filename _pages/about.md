@@ -22,9 +22,9 @@ redirect_from:
 
 I'm a second-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I received a M.S. in Electrical Engineering and a B.S. in Mathematics at KAIST in South Korea.
-I'm broadly interested in the intersection of theoretical computer science and microeconomics.
+I'm broadly interested in theoretical computer science and microeconomics.
 This includes algorithmic mechanism design/game theory, social learning and social choice.
-I'm also interested in graph/online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
+I'm also interested in online algorithm, graph algorithm, combinatorial optimization, and computational complexity.
 My recent focus is on algorithmic mechanism design for delegation, especially from combinatorial/learning/multi-agent perspective.
 
 
