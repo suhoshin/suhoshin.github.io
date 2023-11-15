@@ -35,23 +35,23 @@ My recent focus is on algorithmic mechanism design for delegation, especially fr
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
-* [**Incentivizing Performance in Bandits with Strategic Arms**](https://arxiv.org/pdf/2311.07601.pdf), manuscript
+* **Incentivizing Performance in Bandits with Strategic Arms**], [manuscript](https://arxiv.org/pdf/2311.07601.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
 	
-* [**Regret Analysis of Repeated Delegated Choice**](https://arxiv.org/pdf/2310.04884.pdf), manuscript
+* **Regret Analysis of Repeated Delegated Choice**, [manuscript](https://arxiv.org/pdf/2310.04884.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
-* [**Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**](https://arxiv.org/pdf/2310.19025.pdf), NeurIPS'23
+* **Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, [NeurIPS'23](https://arxiv.org/pdf/2310.19025.pdf)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
 
-* [**Bandit Social Learning under Myopic Agents**](https://arxiv.org/pdf/2302.07425.pdf), NeurIPS'23
+* **Bandit Social Learning under Myopic Agents**, [NeurIPS'23](https://arxiv.org/pdf/2302.07425.pdf)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
 
-* [**Delegating to Multiple Agents**](https://arxiv.org/pdf/2305.03203.pdf), EC'23
+* **Delegating to Multiple Agents**, [EC'23](https://arxiv.org/pdf/2305.03203.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, K. Rezaei, S. Shin
 
-* [**Multi-armed Bandit Algorithm against Strategic Replication**](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf), AISTATS'22
+* **Multi-armed Bandit Algorithm against Strategic Replication**, [AISTATS'22](https://proceedings.mlr.press/v151/shin22a/shin22a.pdf)
 	* S. Shin, S. Lee, J. Ok
 
-* [**Power of Bonus in Pricing for Crowdsourcing**](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf), Sigmetrics'22
+* **Power of Bonus in Pricing for Crowdsourcing**, [Sigmetrics'22](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf)
 	* S. Shin, H.Choi, Y. Yi, J. Ok
