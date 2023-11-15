@@ -35,13 +35,10 @@ My recent focus is on algorithmic mechanism design for delegation, especially fr
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
-* **Almost Tight Guarantees for Online Nash Social Welfare Maximization**, under review
-	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, E. Martinez, S. Shin, M. Springer
-
-* **Incentivizing Performance in Bandits with Strategic Arms**, under review
+* [**Incentivizing Performance in Bandits with Strategic Arms**](https://arxiv.org/pdf/2311.07601.pdf), manuscript
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
 	
-* [**Regret Analysis of Repeated Delegated Choice**](https://arxiv.org/pdf/2310.04884.pdf), under review
+* [**Regret Analysis of Repeated Delegated Choice**](https://arxiv.org/pdf/2310.04884.pdf), manuscript
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
 	
 * [**Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**](https://arxiv.org/pdf/2310.19025.pdf), NeurIPS'23
