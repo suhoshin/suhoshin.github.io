@@ -44,7 +44,7 @@ My recent focus is on algorithmic mechanism design for delegation, especially fr
 * **Improved Relaxation for Oracle-efficient Adversarial Contextual Bandits**, [NeurIPS'23](https://arxiv.org/pdf/2310.19025.pdf)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, M. Springer
 
-* **Bandit Social Learning under Myopic Agents**, [NeurIPS'23](https://arxiv.org/pdf/2302.07425.pdf)
+* **Bandit Social Learning under Myopic Agents**, [NeurIPS'23](https://arxiv.org/abs/2302.07425v4)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
 
 * **Delegating to Multiple Agents**, [EC'23](https://arxiv.org/pdf/2305.03203.pdf)
