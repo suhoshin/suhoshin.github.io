@@ -35,6 +35,9 @@ My recent focus is on algorithmic mechanism design for delegation, especially fr
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
+* **Robust and Performance Incentivizing Algorithms for Bandits with Strategic Agents**, [Manuscript](https://arxiv.org/pdf/2312.07929.pdf)
+	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
+
 * **Online Advertisements with LLMs: Opportunities and Challenges**, [Manuscript](https://arxiv.org/pdf/2311.07601.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
 	
