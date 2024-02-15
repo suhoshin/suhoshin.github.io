@@ -35,6 +35,8 @@ My recent focus is on algorithmic mechanism design for delegation, especially fr
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
+* **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [Manuscript](https://arxiv.org/pdf/2402.08547.pdf)
+	* <sup>$\alpha,\beta$</sup>S. Brânzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
 
 * **Replication-proof Bandit Mechanism Design**, [Manuscript](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
