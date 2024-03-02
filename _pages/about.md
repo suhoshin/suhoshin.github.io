@@ -24,8 +24,7 @@ I'm a second-year Ph.D. student in Computer Science at the University of Marylan
 I received a M.S. in Electrical Engineering and a B.S. in Mathematics at KAIST in South Korea.
 I'm broadly interested in the intersection of computer science and microeconomics.
 This includes algorithmic mechanism design/game theory, social learning and social choice.
-I'm also interested in online algorithm, graph algorithm, combinatorial optimization, and computational complexity.
-My recent focus is on algorithmic mechanism design for delegation, especially from combinatorial/learning/multi-agent perspective.
+I'm also interested in online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
 
 
 &nbsp;
