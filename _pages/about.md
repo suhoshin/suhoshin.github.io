@@ -21,10 +21,13 @@ redirect_from:
 
 
 I'm a second-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-I received a M.S. in Electrical Engineering and a B.S. in Mathematics at KAIST in South Korea.
 I'm broadly interested in the intersection of computer science and microeconomics.
 This includes algorithmic mechanism design/game theory, social learning and social choice.
 I'm also interested in online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
+
+I received my M.S. and B.S. in electrical engineering and mathematics at KAIST, respectively.
+I will be interning at the University of Chicago hosted by [Prof. Haifeng Xu](https://www.haifeng-xu.com/) this summer - feel free to reach me out if you are around the Chicago area!
+
 
 
 &nbsp;
