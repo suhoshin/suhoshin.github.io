@@ -25,8 +25,8 @@ I'm broadly interested in the intersection of computer science and microeconomic
 This includes algorithmic mechanism design/game theory, social learning and social choice.
 I'm also interested in online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
 
-I received my M.S. and B.S. in electrical engineering and mathematics at KAIST, respectively.
-I will be interning at the University of Chicago hosted by [Prof. Haifeng Xu](https://www.haifeng-xu.com/) this summer - feel free to reach me out if you are around the Chicago area!
+Previously, I received my M.S. and B.S. in electrical engineering and mathematics at KAIST, respectively.
+This summer, I will be interning at the University of Chicago hosted by [Prof. Haifeng Xu](https://www.haifeng-xu.com/) - feel free to reach me out if you are around the Chicago area!
 
 
 
