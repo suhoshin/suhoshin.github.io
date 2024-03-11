@@ -25,7 +25,7 @@ I'm broadly interested in the intersection of computer science and microeconomic
 This includes algorithmic mechanism design/game theory, social learning, social choice, and recently the socioeconomic impact of generative AI on the modern economy.
 I'm also interested in online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
 
-Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST, respectively.
+Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 This summer, I will be interning at the University of Chicago hosted by [Prof. Haifeng Xu](https://www.haifeng-xu.com/) - feel free to reach me out if you are around the Chicago area!
 
 
