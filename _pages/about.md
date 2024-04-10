@@ -21,7 +21,7 @@ redirect_from:
 
 
 I'm a second-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-I'm broadly interested in the intersection of computer science and economics.
+I'm broadly interested in the intersection of computer science, economics, and operations research.
 This includes algorithmic mechanism design/game theory, social learning, social choice, and recently the socioeconomic impact of generative AI on the modern economy.
 I'm also interested in online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
 
