@@ -39,6 +39,11 @@ This summer, I will be interning at the University of Chicago hosted by [Prof. H
 
 
 
+
+
+* **Ad Auctions for LLMs via Retrieval Augmented Generation**, [Manuscript](https://arxiv.org/pdf/2406.09459.pdf)
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
+
 * **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [Manuscript](https://arxiv.org/pdf/2402.08547.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
 
