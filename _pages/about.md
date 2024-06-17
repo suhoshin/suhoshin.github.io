@@ -43,7 +43,7 @@ This summer, I will be interning at the University of Chicago hosted by [Prof. H
 
 * **Ad Auctions for LLMs via Retrieval Augmented Generation**, [Manuscript](https://arxiv.org/pdf/2406.09459.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
-	* EC'24 workshop - Frontiers of Online Advertising: Autobidding, GenAI, and Beyond
+	* [EC'24 workshop](https://sites.google.com/view/ec24-ad-workshop) on Frontiers of Online Advertising: Autobidding, GenAI, and Beyond
 
 * **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [Manuscript](https://arxiv.org/pdf/2402.08547.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
@@ -65,7 +65,7 @@ This summer, I will be interning at the University of Chicago hosted by [Prof. H
 
 * **Bandit Social Learning under Myopic Agents**, [NeurIPS'23](https://arxiv.org/pdf/2302.07425v4.pdf)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
-	* EC'24 workshop - Information Acquisition
+	* [EC'24 workshop](https://sites.google.com/u.northwestern.edu/information-acquisition) on Information Acquisition
 
 * **Delegating to Multiple Agents**, [EC'23](https://arxiv.org/pdf/2305.03203.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, K. Rezaei, S. Shin
