@@ -47,6 +47,7 @@ This summer, I will be interning at the University of Chicago hosted by [Prof. H
 
 * **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [Manuscript](https://arxiv.org/pdf/2402.08547.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
+	* [Slides](https://simina.info/WALE_2024_repeated_cake_cutting.pdf) by [Simina](https://simina.info/) from [WALE 24](https://wale.gr/2024/).
 
 * **Replication-proof Bandit Mechanism Design**, [Manuscript](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
