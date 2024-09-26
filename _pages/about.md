@@ -40,15 +40,6 @@ This summer, I will be interning at the University of Chicago hosted by [Prof. H
 
 
 
-
-* **Ad Auctions for LLMs via Retrieval Augmented Generation**, [Manuscript](https://arxiv.org/pdf/2406.09459.pdf)
-	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
-	* [EC'24 workshop](https://sites.google.com/view/ec24-ad-workshop) on Frontiers of Online Advertising: Autobidding, GenAI, and Beyond
-
-* **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [Manuscript](https://arxiv.org/pdf/2402.08547.pdf)
-	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
-	* [Slides](https://simina.info/WALE_2024_repeated_cake_cutting.pdf) by [Simina](https://simina.info/) at [WALE 24](https://wale.gr/2024/).
-
 * **Replication-proof Bandit Mechanism Design**, [Manuscript](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
 	
@@ -57,6 +48,17 @@ This summer, I will be interning at the University of Chicago hosted by [Prof. H
 
 * **Online Advertisements with LLMs: Opportunities and Challenges**, [Manuscript](https://arxiv.org/pdf/2311.07601.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
+
+* **Ad Auctions for LLMs via Retrieval Augmented Generation**, [NeurIPS'24](https://arxiv.org/pdf/2406.09459.pdf)
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
+	* [EC'24 workshop](https://sites.google.com/view/ec24-ad-workshop) on Frontiers of Online Advertising: Autobidding, GenAI, and Beyond
+
+* **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [NeurIPS'24](https://arxiv.org/pdf/2402.08547.pdf)
+	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
+	* [Slides](https://simina.info/WALE_2024_repeated_cake_cutting.pdf) by [Simina](https://simina.info/) at [WALE 24](https://wale.gr/2024/).
+
+* **Fairness and Efficiency in Online Class Matching**, NeurIPS'24
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Jahan, M. Sharifi, S. Shin, M. Springer
 	
 * **Regret Analysis of Repeated Delegated Choice**, [AAAI'24](https://arxiv.org/pdf/2310.04884.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, M. Mahdavi, K. Rezaei, S. Shin
