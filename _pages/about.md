@@ -38,6 +38,8 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 
 
+* **Gains-from-Trade in Bilateral Trade with a Broker**
+	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
 
 * **Replication-proof Bandit Mechanism Design**, [Manuscript](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
