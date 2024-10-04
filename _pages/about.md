@@ -38,8 +38,6 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 
 
-* **Gains-from-Trade in Bilateral Trade with a Broker**
-	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
 
 * **Replication-proof Bandit Mechanism Design**, [Manuscript](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
@@ -49,6 +47,9 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Online Advertisements with LLMs: Opportunities and Challenges**, [Manuscript](https://arxiv.org/pdf/2311.07601.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
+
+* **Gains-from-Trade in Bilateral Trade with a Broker**, SODA'25
+	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
 
 * **Ad Auctions for LLMs via Retrieval Augmented Generation**, [NeurIPS'24](https://arxiv.org/pdf/2406.09459.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
