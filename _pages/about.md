@@ -71,7 +71,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 * **Bandit Social Learning under Myopic Agents**, [NeurIPS'23](https://arxiv.org/pdf/2302.07425v4.pdf)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
 	* [EC'24 workshop](https://sites.google.com/u.northwestern.edu/information-acquisition) on Information Acquisition
-	* <span style="color: #EE6548; font-weight: bold;">Best poster award</span> at [Annual Machine Learning Symposium'24](https://events.nyas.org/event/ml2024/summary?utm_source=partner&utm_medium=referral&utm_campaign=ml2024)
+	* <span style="color: #EE6548">Best poster award</span> at [Annual Machine Learning Symposium'24](https://events.nyas.org/event/ml2024/summary?utm_source=partner&utm_medium=referral&utm_campaign=ml2024)
 
 * **Delegating to Multiple Agents**, [EC'23](https://arxiv.org/pdf/2305.03203.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, K. Rezaei, S. Shin
