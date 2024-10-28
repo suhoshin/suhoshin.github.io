@@ -59,7 +59,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
 	* [Slides](https://simina.info/WALE_2024_repeated_cake_cutting.pdf) by [Simina](https://simina.info/) at [WALE 24](https://wale.gr/2024/).
 
-* **Fairness and Efficiency in Online Class Matching**, NeurIPS'24
+* **Fairness and Efficiency in Online Class Matching**, [NeurIPS'24](https://arxiv.org/pdf/2410.19163)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Jahan, M. Sharifi, S. Shin, M. Springer
 	
 * **Regret Analysis of Repeated Delegated Choice**, [AAAI'24](https://arxiv.org/pdf/2310.04884.pdf)
