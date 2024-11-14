@@ -21,9 +21,8 @@ redirect_from:
 
 
 I'm a third-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-I'm broadly interested in the intersection of computer science and economics.
-This includes algorithmic mechanism design/game theory, social learning, social choice, and recently the socioeconomic impact of generative AI on the modern economy.
-I'm also interested in online algorithm, combinatorial optimization, computational complexity, and multi-armed bandits.
+I'm broadly interested in the intersection of computer science and economics, including (i) auctions, exchange markets, and principal-agent problems, (ii) the economics of recommender systems for online platforms, and (iii) mechanism design for large language models.
+I'm also interested in online algorithms, computational complexity, online learning and multi-armed bandits.
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
