@@ -38,13 +38,13 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 
 
-* **Replication-proof Bandit Mechanism Design**, [Manuscript](https://arxiv.org/pdf/2312.16896.pdf)
+* **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
 	
-* **Robust and Performance Incentivizing Algorithms for Bandits**, [Manuscript](https://arxiv.org/pdf/2312.07929.pdf)
+* **Robust and Performance Incentivizing Algorithms for Bandits**, [AAAI'25](https://arxiv.org/pdf/2312.07929.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
 
-* **Online Advertisements with LLMs: Opportunities and Challenges**, [Manuscript](https://arxiv.org/pdf/2311.07601.pdf)
+* **Online Advertisements with LLMs: Opportunities and Challenges**, [SIGecom exchange letters'25](https://arxiv.org/pdf/2311.07601.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
 
 * **Gains-from-Trade in Bilateral Trade with a Broker**, [SODA'25](https://arxiv.org/pdf/2410.17444)
