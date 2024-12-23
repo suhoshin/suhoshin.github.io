@@ -35,8 +35,6 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
-<div style="font-size: 0.9em;">
-
 * **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
 	
@@ -79,4 +77,3 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Power of Bonus in Pricing for Crowdsourcing**, [Sigmetrics'22](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf)
 	* S. Shin, H.Choi, Y. Yi, J. Ok
-</div>
