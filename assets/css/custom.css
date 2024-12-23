@@ -1,0 +1,6 @@
+/* Adjust the maximum width of the main content area */
+.wrapper {
+    max-width: 1200px; /* Set your desired maximum width */
+    margin: 0 auto;    /* Center the content */
+    padding: 0 20px;   /* Optional: Add horizontal padding */
+}

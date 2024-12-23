@@ -114,6 +114,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets/css/custom.css
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -47,7 +47,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 * **Gains-from-Trade in Bilateral Trade with a Broker**, [SODA'25](https://arxiv.org/pdf/2410.17444)
 	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
 
-* **Online Advertisements with LLMs: Opportunities and Challenges**, [SIGecom letters'24](https://arxiv.org/pdf/2311.07601.pdf)
+* **Online Advertisements with LLMs: Opportunities and Challenges**, [SIGecom exchange letters'24](https://arxiv.org/pdf/2311.07601.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
 
 * **Ad Auctions for LLMs via Retrieval Augmented Generation**, [NeurIPS'24](https://arxiv.org/pdf/2406.09459.pdf)
