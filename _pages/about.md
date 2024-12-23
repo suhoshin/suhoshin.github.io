@@ -36,7 +36,10 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 
-
+<ul class="no-indent">
+<li>**test**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)<br>
+	<sup>$\alpha,\beta$</sup>test</li>
+</ul>
 
 * **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
