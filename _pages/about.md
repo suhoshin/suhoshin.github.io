@@ -35,7 +35,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
-* **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)  (<span style="color: #EE6548">Oral</span>)
+* **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)  (<span style="color: #EE6548">oral</span>)
 	* <sup>$\alpha,\beta$</sup>S. Esmaeili, M. Hajiaghayi, S. Shin
 	
 * **Robust and Performance Incentivizing Algorithms for Bandits**, [AAAI'25](https://arxiv.org/pdf/2312.07929.pdf)
