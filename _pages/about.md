@@ -21,7 +21,7 @@ redirect_from:
 
 
 I'm a third-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-I'm broadly interested in the intersection of computer science and economics, including (i) auctions, exchange markets, and principal-agent problems, (ii) the economics of recommender systems for online platforms, and (iii) mechanism design for large language models.
+I'm broadly interested in the intersection of computer science and economics, including (i) auctions, exchange markets, and principal-agent problems, (ii) the economics of recommender systems and market design for online platforms, and (iii) mechanism design for large language models.
 I'm also interested in online algorithms, approximation algorithm, online learning, and computational complexity.
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
