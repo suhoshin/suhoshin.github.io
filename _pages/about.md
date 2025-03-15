@@ -39,7 +39,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 	* S. Shin, S. Esmaeili, M. Hajiaghayi
 	
 * **Robust and Performance Incentivizing Algorithms for Bandits**, [AAAI'25](https://arxiv.org/pdf/2312.07929.pdf)
-	* <sup>$\alpha,\beta$</sup>S. Esmaeili, S. Shin, A. Slivkins
+	* S. Esmaeili, S. Shin, A. Slivkins
 
 * **Gains-from-Trade in Bilateral Trade with a Broker**, [SODA'25](https://arxiv.org/pdf/2410.17444)
 	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
