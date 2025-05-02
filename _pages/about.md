@@ -35,7 +35,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
-* **Tokenized Bandit for LLM Decoding and Alignment**, ICML'25
+* **Tokenized Bandit for LLM Decoding and Alignment**, [ICML'25](https://suhoshin.github.io/)
 	* S. Shin, C. Yang, H. Xu, M. Hajiaghayi
 
 * **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)  (<span style="color: #EE6548">oral</span>)
