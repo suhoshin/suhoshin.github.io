@@ -37,7 +37,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Optimal Contest for Recommender Systems**, [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
-	* [Market Innovation Workshop'25](https://marketplaceinnovation.net/)
+	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 
 * **Delegation with Costly Inspection**, [EC'25](https://suhoshin.github.io/)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, P. Krysta, M. Mahdavi, S. Shin
