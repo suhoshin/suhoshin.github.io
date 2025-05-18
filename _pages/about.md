@@ -35,9 +35,9 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
-* **The Contest Behind the Feed: Optimal Contest for Recommender Systems**, working paper
+* **Optimal Contest for Recommender Systems**, working paper
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
-	* [MIW'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940)
+	* [Market Innovation Workshop'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940)
 
 * **Delegation with Costly Inspection**, [EC'25](https://suhoshin.github.io/)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, P. Krysta, M. Mahdavi, S. Shin
