@@ -42,7 +42,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 * **Delegation with Costly Inspection**, [EC'25](https://suhoshin.github.io/)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, P. Krysta, M. Mahdavi, S. Shin
 
-* **Delegated Choice with Combinatorial Constraints**, [EC'25](https://suhoshin.github.io/)
+* **Delegated Choice with Combinatorial Constraints**, [EC'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5284400)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, P. Krysta, S. Shin
 
 * **Tokenized Bandit for LLM Decoding and Alignment**, [ICML'25](https://suhoshin.github.io/)
