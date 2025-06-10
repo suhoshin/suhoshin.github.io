@@ -39,13 +39,13 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
 	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 
-* **Delegation with Costly Inspection**, [EC'25](https://suhoshin.github.io/)
+* **Delegation with Costly Inspection**, [EC'25](https://arxiv.org/pdf/2506.07162)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, P. Krysta, M. Mahdavi, S. Shin
 
 * **Delegated Choice with Combinatorial Constraints**, [EC'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5284400)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, P. Krysta, S. Shin
 
-* **Tokenized Bandit for LLM Decoding and Alignment**, [ICML'25](https://suhoshin.github.io/)
+* **Tokenized Bandit for LLM Decoding and Alignment**, [ICML'25](https://arxiv.org/pdf/2506.07276)
 	* S. Shin, C. Yang, H. Xu, M. Hajiaghayi
 
 * **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)  (<span style="color: #EE6548">oral</span>)
