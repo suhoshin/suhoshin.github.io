@@ -93,7 +93,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 
 ## Expository Articles
-* **Algorithmic Delegated Choice: An Annotated Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
+* **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
 	
 * **Online Ads with LLMs: Opportunities and Challenges**, [SIGecom Exchanges Vol 22.2](https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf)
