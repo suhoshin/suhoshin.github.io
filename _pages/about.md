@@ -36,8 +36,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 
-* **Algorithmic Delegated Choice: An Annotated Reading List**, [SIGecom Exchanges 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
-	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
+
 
 * **Optimal Contest for Recommender Systems**, [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
@@ -60,9 +59,6 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Gains-from-Trade in Bilateral Trade with a Broker**, [SODA'25](https://arxiv.org/pdf/2410.17444)
 	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
-
-* **Online Ads with LLMs: Opportunities and Challenges**, [SIGecom Exchanges letters 22.2](https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf)
-	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
 
 * **Ad Auctions for LLMs via Retrieval Augmented Generation**, [NeurIPS'24](https://arxiv.org/pdf/2406.09459.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
@@ -94,3 +90,11 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Power of Bonus in Pricing for Crowdsourcing**, [Sigmetrics'22](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf)
 	* S. Shin, H.Choi, Y. Yi, J. Ok
+
+
+## Expository Articles
+* **Algorithmic Delegated Choice: An Annotated Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
+	
+* **Online Ads with LLMs: Opportunities and Challenges**, [SIGecom Exchanges Vol 22.2](https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf)
+	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
