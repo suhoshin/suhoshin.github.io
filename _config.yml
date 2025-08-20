@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Suho Shin"
+title                    : "Suho Shin (신수호)"
 title_separator          : "-"
 name                     : &name "Suho Shin (신수호)"
 description              : &description "PhD Student at UMD"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suho Shin"
+  name             : "Suho Shin (신수호)"
   avatar           : "profile1.jpeg"
   bio              : "PhD student at UMD"
   location         : "MD, USA"
