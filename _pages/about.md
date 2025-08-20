@@ -30,9 +30,19 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 &nbsp;
 &nbsp;
+
+
+
+## Expository Articles
+<sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
+
+* **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
+	
+* **Online Ads with LLMs: Opportunities and Challenges**, [SIGecom Exchanges Vol 22.2](https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf)
+	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
+
 ## Papers
-
-
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 
@@ -90,11 +100,3 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Power of Bonus in Pricing for Crowdsourcing**, [Sigmetrics'22](https://yung-web.github.io/home/Publication/Conference/PowerofBonus_Sigmetrics_2022.pdf)
 	* S. Shin, H.Choi, Y. Yi, J. Ok
-
-
-## Expository Articles
-* **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
-	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
-	
-* **Online Ads with LLMs: Opportunities and Challenges**, [SIGecom Exchanges Vol 22.2](https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf)
-	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
