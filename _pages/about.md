@@ -43,10 +43,6 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 	* <sup>$\alpha,\beta$</sup>S. Feizi, M. Hajiaghayi, K. Rezaei, S. Shin
 
 ## Papers
-<sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
-
-
-
 
 * **Optimal Contest for Recommender Systems**, [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
