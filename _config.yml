@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Suho Shin"
 title_separator          : "-"
-name                     : &name "Suho Shin"
+name                     : &name "Suho Shin (신수호)"
 description              : &description "PhD Student at UMD"
 url                      : https://suhoshin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
