@@ -57,6 +57,8 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 
 * **Tokenized Bandit for LLM Decoding and Alignment**, [ICML'25](https://arxiv.org/pdf/2506.07276)
 	* S. Shin, C. Yang, H. Xu, M. Hajiaghayi
+	* [EC'25 workshop](https://sites.google.com/view/ec25-information-economics-llm) on Information Economics and LLMs
+	* [EC'25 workshop](https://sites.google.com/berkeley.edu/haiec/home?authuser=0) on Human-AI Collaboration
 
 * **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)  (<span style="color: #EE6548">oral</span>)
 	* S. Shin, S. Esmaeili, M. Hajiaghayi
