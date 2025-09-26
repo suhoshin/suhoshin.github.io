@@ -26,6 +26,8 @@ I'm also interested in online algorithms, approximation algorithm, online learni
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
+I'm on the lookout for postdoc opportunities starting in fall 2026, feel free to reach out!
+
 
 
 &nbsp;
