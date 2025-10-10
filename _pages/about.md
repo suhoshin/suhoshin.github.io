@@ -41,7 +41,7 @@ I'm on the academic job market this year, feel free to reach out!
 * **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
 
-* **Optimal Contest for Recommender Systems**, [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940)
+* **Optimal Contest for Recommender Systems**, [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258940) **(Job Market Paper)**
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
 	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
