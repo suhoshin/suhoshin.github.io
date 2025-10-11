@@ -32,7 +32,7 @@ I study how a principalâ€”such as a regulator, platform, or algorithm designerâ€
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
-I'm on the academic job market this year, searching for postdoc opportunities or faculty positions. Please feel free to reach out!
+I'm on the (<span style="color: #EE6548">academic job market</span>) this year, searching for postdoc opportunities or faculty positions. Please feel free to reach out!
 
 
 
