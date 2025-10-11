@@ -21,8 +21,14 @@ redirect_from:
 
 
 I'm a fourth-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-I'm broadly interested in the intersection of computer science and economics, including (i) auctions, exchange markets, and principal-agent problems, (ii) the economics of recommender systems and market design for online platforms, and (iii) mechanism design for large language models.
-I'm also interested in online algorithms, approximation algorithm, online learning, and computational complexity.
+I am interested in mechanism design and market design, broadly construed-
+A core thread throughout my research is the development of the algorithmic foundations of delegated decision-making under uncertainty.
+Across classical markets, modern digital platforms, and AI systems, decision-makers increasingly rely on autonomous or strategic agents to act on their behalf. For instance, non-experts delegate decision-making to experts, content platforms delegate high-quality production to creators, and individuals even largely delegate information-seeking to large language models these days.
+A critical challenge in such settings is that delegatees may have ulterior motives, misaligned incentives, or incomplete information, which can lead to undesirable outcomes for the delegator. How can delegation be structured so that the resulting system remains efficient, fair, and economically sustainable?
+
+I study how a principal—such as a regulator, platform, or algorithm designer—can design mechanisms, learning procedures, and information structures that align the incentives of self-interested or bounded agents. 
+My ultimate goal is to build a coherent framework of delegation mechanisms that unifies incentive design and decision optimization for human-AI systems, online marketplaces, and various organizations.
+I'm also interested in online algorithms, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
