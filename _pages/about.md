@@ -22,13 +22,13 @@ redirect_from:
 
 I'm a fourth-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I am interested in algorithmic game theory, especially on mechanism design and market design, broadly construed.
+I'm also interested in online algorithms, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
 A core thread throughout my research is the development of the algorithmic foundations of delegated decision-making under uncertainty.
 Across classical markets, modern digital platforms, and AI systems, decision-makers increasingly rely on autonomous or strategic agents to act on their behalf. 
 For instance, non-experts delegate decision-making to experts, content platforms delegate high-quality production to creators, and individuals even largely delegate information-seeking to large language models these days.
 A critical challenge in such settings is that delegatees may have ulterior motives, misaligned incentives, or incomplete information, which can lead to undesirable outcomes for the delegator.
 I study how a principal—such as a regulator, platform, or algorithm designer—can design mechanisms, learning procedures, and information structures that align the incentives of self-interested or bounded agents. 
-I'm also interested in online algorithms, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
