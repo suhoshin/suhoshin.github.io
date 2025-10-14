@@ -20,7 +20,7 @@ redirect_from:
 
 
 
-I'm a fourth-year Ph.D. student in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
+I'm a Ph.D. candidate in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 I am interested in algorithmic game theory, especially on mechanism design and market design, broadly construed.
 I also work on online algorithms, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
