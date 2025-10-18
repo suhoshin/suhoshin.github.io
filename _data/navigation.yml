@@ -11,3 +11,5 @@ main:
     
   - title: "CV"
     url: /files/suhoshin_cv.pdf
+  - title: "Publications"
+    url: /publications/
