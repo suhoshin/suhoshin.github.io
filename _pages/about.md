@@ -35,7 +35,7 @@ I'm on the (<span style="color: #EE6548">academic job market</span>) this year, 
 
 
 
-## Selected Papers
+## Selected Publications
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 * **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
