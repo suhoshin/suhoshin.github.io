@@ -21,8 +21,8 @@ redirect_from:
 
 
 I'm a Ph.D. candidate in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-I am interested in algorithmic game theory, especially on mechanism design and market design, broadly construed.
-I also work on online algorithms, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
+I am interested in mechanism design and market design, broadly construed, and their applications to classic economy, modern online platforms and generative AI.
+I also work on online algorithm, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
 Previously, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
