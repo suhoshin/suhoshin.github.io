@@ -8,6 +8,9 @@ author_profile: true
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
+* ** Single-Sample Bilateral Trade with a Broker**, [WWW'26](https://suhoshin.github.io/publications/)
+	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, G. Peng, S. Shin
+
 * **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
 
