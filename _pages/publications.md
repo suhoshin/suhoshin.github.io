@@ -8,17 +8,18 @@ author_profile: true
 
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
+
+* **Optimal Contest for Recommender Systems**, [STOC'26](https://drive.google.com/file/d/1sIk1YKaeLvNJjrpqDpdqUoZK1TdW7VZn/view?usp=sharing) **(Job Market Paper)**
+	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
+	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
+	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
+
 * **Single-Sample Bilateral Trade with a Broker**, WWW'26
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, G. Peng, S. Shin
 
 
 * **Algorithmic Delegated Choice: Reading List**, [SIGecom Exchanges Vol 23.1](https://www.sigecom.org/exchanges/volume_23/1/HAJIAGHAYI.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Shin
-
-* **Optimal Contest for Recommender Systems**, [working paper](https://drive.google.com/file/d/1sIk1YKaeLvNJjrpqDpdqUoZK1TdW7VZn/view?usp=sharing) **(Job Market Paper)**
-	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
-	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
-	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
 
 * **Delegation with Costly Inspection**, [EC'25](https://arxiv.org/pdf/2506.07162)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, P. Krysta, M. Mahdavi, S. Shin
