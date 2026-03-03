@@ -20,7 +20,8 @@ redirect_from:
 
 
 
-I'm a Ph.D. candidate in Computer Science at the University of Maryland, advised by [Prof. MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
+I'm a Ph.D. candidate in Computer Science at the University of Maryland, advised by [MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
+I am also a student researcher at Google Research, hosted by [Sébastien Lahaie](https://research.google/people/105420/).
 I am interested in mechanism design and market design, broadly construed, and their applications to classic economy, modern online platforms and generative AI.
 I also work on online algorithm, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
@@ -37,7 +38,7 @@ Previously, I was a software/machine learning engineer at [Coupang](https://www.
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 
-* **Optimal Contest for Recommender Systems**, [STOC'26](https://drive.google.com/file/d/1sIk1YKaeLvNJjrpqDpdqUoZK1TdW7VZn/view?usp=sharing) **(Job Market Paper)**
+* **Optimal Contest for Recommender Systems**, [STOC'26](https://drive.google.com/file/d/1sIk1YKaeLvNJjrpqDpdqUoZK1TdW7VZn/view?usp=sharing)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
 	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
