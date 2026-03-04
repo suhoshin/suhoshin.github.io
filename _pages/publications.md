@@ -14,7 +14,7 @@ author_profile: true
 	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
 
-* **Single-Sample Bilateral Trade with a Broker**, WWW'26
+* **Single-Sample Bilateral Trade with a Broker**, [WWW'26](https://arxiv.org/abs/2603.03016)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, G. Peng, S. Shin
 
 
