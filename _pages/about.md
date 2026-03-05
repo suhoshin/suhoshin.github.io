@@ -24,7 +24,6 @@ I'm a PhD candidate in Computer Science at the University of Maryland, advised b
 I am interested in mechanism design and market design, broadly construed, and their applications to classic economy, modern online platforms and generative AI.
 I also work on online algorithm, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
-I was a visiting student at the University of Chicago, hosted by [Haifeng Xu](https://www.haifeng-xu.com/) in the summer of 2024.
 Before my PhD, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
 
 
