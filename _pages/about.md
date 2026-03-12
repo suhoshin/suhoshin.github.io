@@ -21,6 +21,9 @@ redirect_from:
 
 
 I'm a PhD candidate in Computer Science at the University of Maryland, advised by [MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
+I'm also a student researcher at Google Research, hosted by [Sébastien Lahaie](https://research.google/people/105420/).
+Starting this summer, I will be a joint postdoc at Stanford and MIT, hosted by [Amin Saberi](https://web.stanford.edu/~saberi/) and [Negin Golrezaei](https://www.mit.edu/~golrezae/).
+
 I am interested in mechanism design and market design, broadly construed, and their applications to classic economy, modern online platforms and generative AI.
 I also work on online algorithm, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
