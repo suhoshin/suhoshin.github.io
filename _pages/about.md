@@ -40,7 +40,7 @@ Before my PhD, I was a software/machine learning engineer at [Coupang](https://w
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 
-* **Optimal Contest for Recommender Systems**, [STOC'26](https://drive.google.com/file/d/1sIk1YKaeLvNJjrpqDpdqUoZK1TdW7VZn/view?usp=sharing)
+* **Optimal Contest for Recommender Systems**, [STOC'26](https://arxiv.org/pdf/2604.04844)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
 	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
