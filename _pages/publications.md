@@ -9,8 +9,9 @@ author_profile: true
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
 
-* **Optimal Contest for Recommender Systems**, [STOC'26](https://arxiv.org/pdf/2604.04844) **(Job Market Paper)**
+* **Optimal Contest for Recommender Systems**, [working paper](https://drive.google.com/drive/u/0/home)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
+	* A preliminary version appeared at [STOC'26](https://arxiv.org/pdf/2604.04844)
 	* [Marketplace Innovation Workshop'25](https://marketplaceinnovation.net/)
 	* Finalists, [2025 INFORMS PSOR best video competition](https://connect.informs.org/public-sector-operations-research/discussion/finalists-for-the-2025-informs-psor-best-video-competition)
 
