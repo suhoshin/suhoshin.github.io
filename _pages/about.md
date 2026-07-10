@@ -40,7 +40,7 @@ Before my PhD, I was a software/machine learning engineer at [Coupang](https://w
 
 
 
-* **Algorithmic Delegated Choice: Reading List**, [PhD Thesis](https://api.drum.lib.umd.edu/server/api/core/bitstreams/0b72a14a-96b4-4782-9370-abb49f26a70a/content)
+* **Algorithmic Delegation: From Classic Auctions to Modern Digital Economy**, [PhD Thesis](https://api.drum.lib.umd.edu/server/api/core/bitstreams/0b72a14a-96b4-4782-9370-abb49f26a70a/content)
 	* S. Shin
 
 * **Optimal Contest for Recommender Systems**, [working paper](https://drive.google.com/drive/u/0/home)
