@@ -20,10 +20,10 @@ redirect_from:
 
 
 
-I'm a PhD candidate in Computer Science at the University of Maryland, advised by [MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
-Starting this summer, I will be a joint postdoc at Stanford [(Motwani Postdoctoral Fellow)](https://theory.stanford.edu/main/motwani-postdocs.shtml) and MIT, hosted by [Amin Saberi](https://web.stanford.edu/~saberi/) and [Negin Golrezaei](https://www.mit.edu/~golrezae/).
+I'm a joint postdoc at Stanford [(Motwani Postdoctoral Fellow)](https://theory.stanford.edu/main/motwani-postdocs.shtml) and MIT, hosted by [Amin Saberi](https://web.stanford.edu/~saberi/) and [Negin Golrezaei](https://www.mit.edu/~golrezae/).
+I completed my PhD in Computer Science at the University of Maryland, advised by [MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/).
 
-I am interested in mechanism design and market design, broadly construed, and their applications to classic economy, modern online platforms and generative AI.
+I am interested in mechanism design, market design, and principal-agent problems, broadly construed, and their applications to classic economy, modern online platforms and generative AI.
 I also work on online algorithm, approximation algorithm, online learning (especially multi-armed bandits), and computational complexity.
 
 Before my PhD, I was a software/machine learning engineer at [Coupang](https://www.aboutcoupang.com/) and [LINE](https://linecorp.com/en/), and received my M.S./B.S. in electrical engineering/mathematics at KAIST.
@@ -38,6 +38,10 @@ Before my PhD, I was a software/machine learning engineer at [Coupang](https://w
 ## Selected Publications
 <sup>($\alpha,\beta$ denotes alphabetical order of authorship)</sup>
 
+
+
+* **Algorithmic Delegated Choice: Reading List**, [PhD Thesis](https://api.drum.lib.umd.edu/server/api/core/bitstreams/0b72a14a-96b4-4782-9370-abb49f26a70a/content)
+	* S. Shin
 
 * **Optimal Contest for Recommender Systems**, [working paper](https://drive.google.com/drive/u/0/home)
 	* <sup>$\alpha,\beta$</sup>N. Golrezaei, M. Hajiaghayi, S. Shin
