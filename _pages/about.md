@@ -63,9 +63,6 @@ Before my PhD, I was a software/machine learning engineer at [Coupang](https://w
 	* [EC'25 workshop](https://sites.google.com/view/ec25-information-economics-llm) on Information Economics and LLMs
 	* [EC'25 workshop](https://sites.google.com/berkeley.edu/haiec/home?authuser=0) on Human-AI Collaboration
 
-* **Replication-proof Bandit Mechanism Design**, [AAAI'25](https://arxiv.org/pdf/2312.16896.pdf)  (<span style="color: #EE6548">oral</span>)
-	* S. Shin, S. Esmaeili, M. Hajiaghayi
-
 * **Gains-from-Trade in Bilateral Trade with a Broker**, [SODA'25](https://arxiv.org/pdf/2410.17444)
 	* <sup>$\alpha,\beta$</sup>I. Hajiaghayi, M. Hajiaghayi, G. Peng, S. Shin
 
@@ -75,10 +72,6 @@ Before my PhD, I was a software/machine learning engineer at [Coupang](https://w
 * **Ad Auctions for LLMs via Retrieval Augmented Generation**, [NeurIPS'24](https://arxiv.org/pdf/2406.09459.pdf)
 	* <sup>$\alpha,\beta$</sup>M. Hajiaghayi, S. Lahaie, K. Rezaei, S. Shin
 	* [EC'24 workshop](https://sites.google.com/view/ec24-ad-workshop) on Frontiers of Online Advertising: Autobidding, GenAI, and Beyond
-
-* **Dueling Over Dessert, Mastering the Art of Repeated Cake Cutting**, [NeurIPS'24](https://arxiv.org/pdf/2402.08547.pdf)
-	* <sup>$\alpha,\beta$</sup>S. Branzei, M. Hajiaghayi, R. Phillips, S. Shin, K. Wang
-	* [Slides](https://simina.info/WALE_2024_repeated_cake_cutting.pdf) by [Simina](https://simina.info/) at [WALE 24](https://wale.gr/2024/).
 
 * **Bandit Social Learning under Myopic Agents**, [NeurIPS'23](https://arxiv.org/pdf/2302.07425)
 	* <sup>$\alpha,\beta$</sup>K. Banihashem, M. Hajiaghayi, S. Shin, A. Slivkins
